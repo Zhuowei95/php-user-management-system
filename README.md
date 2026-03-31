@@ -54,3 +54,4 @@ After importing `schema.sql`:
 
 - Email: `admin@example.com`
 - Password: `admin123`
+- Temporary update made in secondary branch for branch and merge demonstration.
